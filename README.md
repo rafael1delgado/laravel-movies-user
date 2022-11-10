@@ -31,7 +31,7 @@ npm install
 npm run dev
 ```
 
-4. Copy the .env.example file and save it as .env
+4. Copy the `.env.example` file and save it as `.env`
 
 5. Set the `APP_KEY` value in your .env file
 
