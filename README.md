@@ -6,6 +6,7 @@ Application to manage movies and users
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+- Laravel Framework version `9.19`.
 - PHP version `8.1.4`.
 - Node version `18.12.1`.
 - NPM version `8.19.3`.
