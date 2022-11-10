@@ -20,7 +20,7 @@
                 <input
                     type="text"
                     id="name"
-                    placeholder="Ex: John"
+                    placeholder="Eg: John"
                     wire:model.debounce.1000ms="name"
                     class="
                         form-control-sm
@@ -52,7 +52,7 @@
                 <input
                     type="text"
                     id="email"
-                    placeholder="Ex: jonh.doe@email.com"
+                    placeholder="Eg: jonh.doe@cb.com"
                     autocomplete="off"
                     wire:model.debounce.1000ms="email"
                     class="

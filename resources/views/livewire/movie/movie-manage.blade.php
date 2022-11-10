@@ -19,7 +19,7 @@
             <input
                 type="text"
                 id="movie-name"
-                placeholder="Ex: The Queen"
+                placeholder="Eg: The Queen"
                 wire:model.debounce.1000ms="name"
                 class="
                     form-control-sm
@@ -51,7 +51,7 @@
             <input
                 type="text"
                 id="genre"
-                placeholder="Ex: Biographical"
+                placeholder="Eg: Biographical"
                 wire:model.debounce.1000ms="genre"
                 class="
                     form-control-sm
@@ -82,7 +82,7 @@
             </label>
             <input
                 type="text"
-                placeholder="Ex: 2006"
+                placeholder="Eg: 2006"
                 id="release-year"
                 wire:model.debounce.1000ms="release_year"
                 class="
