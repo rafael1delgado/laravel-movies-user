@@ -22,7 +22,7 @@ composer install
 2. Installing the node js dependencies
 
 ```bash
-npm istall
+npm install
 ```
 
 3. Build the script js/css
@@ -33,20 +33,18 @@ npm run dev
 
 4. Copy the .env.example file and save it as .env
 
-5. Copy and paste `.env.example` to `.env`
+5. Set the `APP_KEY` value in your .env file
 
-6. Set the `APP_KEY` value in your .env file
 
 ```bash
 php artisan key:generate
 ```
 
-- Run the migrations
+6. Run the migrations
 
 ```bash
 php artisan migrate
 ```
-
 
 # Using
 
