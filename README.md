@@ -53,6 +53,10 @@ php artisan migrate
 - Default user: `johndoe@cb.com`
 - Password: `12345678`
 
+# Preview
+
+![Preview Laravel Movies & Users](resources/images/preview.jpg)
+
 ## License
 
 [MIT license](https://opensource.org/licenses/MIT).
